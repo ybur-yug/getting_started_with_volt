@@ -113,6 +113,7 @@ And from here if we open up `app/main/views/main/index.html` we can add some cli
 <h1>{{ foo }}</h1>
 ...
 ```
+##### [Source](https://github.com/ybur-yug/getting_started_with_volt/blob/master/some_project/app/main/views/main/index.html#L6)
 
 And if we fire up our server:
 
