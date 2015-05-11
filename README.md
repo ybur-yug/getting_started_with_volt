@@ -101,7 +101,9 @@ And with this, we can now create a project!
 
 `volt new some_project`
 
-This will give us a new directory called `some_project` that is a default Volt app.
+This will give us a new directory called `some_project` that is a default Volt app and bundles for us.
+![what you should see](http://i.imgur.com/ujb4F0E.gif)
+
 
 `cd some_project`
 
