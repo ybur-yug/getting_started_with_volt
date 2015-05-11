@@ -124,3 +124,4 @@ we can visit `localhost:3000` and see our message proudly displayed.
 From here, check out the [documentation](http://docs.voltframework.com) to get up to speed on the
 nitty gritty of building isomorphic applications in Ruby.
 
+To dive into some Volt specifics if you feel familiar, check out [Rick Carlino's introduction to Volt tasks and my accompanying asciicast](https://github.com/ybur-yug/volt_task_example)
